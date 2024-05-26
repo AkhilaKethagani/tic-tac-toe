@@ -1,1 +1,3 @@
-hello this is an tic toe game
+hello this is akhila creating readme file.
+<br>
+author: akhila
